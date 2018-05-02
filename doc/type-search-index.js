@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Applicant"},{"p":"<Unnamed>","l":"ApplicationDriver"},{"p":"<Unnamed>","l":"ApplicationList"}]
